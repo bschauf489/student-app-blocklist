@@ -1,0 +1,18 @@
+{
+  "blockedApps": [
+    "discord",
+    "steam",
+    "epicgameslauncher",
+    "riotclient",
+    "battlenet",
+    "ubisoftconnect",
+    "anydesk",
+    "teamviewer",
+    "parsec",
+    "opera",
+    "brave",
+    "tor",
+    "utorrent",
+    "qbittorrent"
+  ]
+}
