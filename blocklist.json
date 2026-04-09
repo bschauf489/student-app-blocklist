@@ -1,18 +1,71 @@
 {
   "blockedApps": [
     "discord",
+    "slack",
+    "telegram",
+    "whatsapp",
+    "signal",
+    "skype",
+    "zoom",
+    "snapchat",
+
     "steam",
     "epicgameslauncher",
     "riotclient",
     "battlenet",
     "ubisoftconnect",
-    "anydesk",
-    "teamviewer",
-    "parsec",
+    "origin",
+    "eaapp",
+    "xbox",
+    "gog",
+    "itch",
+    "minecraftlauncher",
+
     "opera",
+    "operagx",
     "brave",
     "tor",
+    "torbrowser",
+
     "utorrent",
-    "qbittorrent"
+    "bittorrent",
+    "qbittorrent",
+
+    "teamviewer",
+    "anydesk",
+    "parsec",
+    "chrome remote desktop",
+    "remotedesktopmanager",
+
+    "openvpn",
+    "nordvpn",
+    "expressvpn",
+    "surfshark",
+    "protonvpn",
+    "windscribe",
+    "tunnelbear",
+    "hotspotshield",
+    "psiphon",
+    "betternet",
+    "hola",
+    "zerotier",
+    "tailscale",
+
+    "cloudflarewarp",
+    "warp",
+    "lantern",
+    "speedify",
+
+    "vmware",
+    "virtualbox",
+    "hyperv",
+
+    "bluestacks",
+    "nox",
+    "ldplayer",
+
+    "cheatengine",
+    "wegame",
+    "garena"
   ]
 }
